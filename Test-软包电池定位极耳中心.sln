@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-软包电池定位极耳中心", "Test-软包电池定位极耳中心.csproj", "{A3AE4558-A48A-4F69-BBC6-FA75BAEA617F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3AE4558-A48A-4F69-BBC6-FA75BAEA617F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AE4558-A48A-4F69-BBC6-FA75BAEA617F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AE4558-A48A-4F69-BBC6-FA75BAEA617F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AE4558-A48A-4F69-BBC6-FA75BAEA617F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A83B44-7C6F-47E8-B02E-532D2DAC0262}
+	EndGlobalSection
+EndGlobal
